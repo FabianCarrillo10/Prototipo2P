@@ -1,0 +1,17 @@
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.Sistema.resources
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.Clientes.resources
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.Compras.resources
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.Proveedores.resources
+C:\Users\fabia\Desktop\Programa\Prototipo\CapaVista\obj\Debug\CapaVista.Ventas.resources

@@ -1,0 +1,8 @@
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\bin\Debug\ClaseModelo.dll
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\bin\Debug\ClaseModelo.pdb
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\obj\Debug\ClaseModelo.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\obj\Debug\ClaseModelo.dll
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\obj\Debug\ClaseModelo.pdb
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\obj\Debug\ClaseModelo.csproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\obj\Debug\ClaseModelo.Sistema.resources
+C:\Users\fabia\Desktop\Programa\Prototipo\ClaseModelo\obj\Debug\ClaseModelo.csproj.GenerateResource.cache

@@ -1,0 +1,16 @@
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\EjecucionSistema.exe.config
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\EjecucionSistema.exe
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\EjecucionSistema.pdb
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\CapaVista.dll
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\CapaControlador.dll
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\CapaModelo.dll
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\CapaVista.pdb
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\CapaControlador.pdb
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\bin\x64\Debug\CapaModelo.pdb
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\obj\x64\Debug\EjecucionSistema.csproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\obj\x64\Debug\EjecucionSistema.Properties.Resources.resources
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\obj\x64\Debug\EjecucionSistema.csproj.GenerateResource.cache
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\obj\x64\Debug\EjecucionSistema.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\obj\x64\Debug\EjecucionSistema.csproj.CopyComplete
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\obj\x64\Debug\EjecucionSistema.exe
+C:\Users\fabia\Desktop\Programa\EjecucionSistema\obj\x64\Debug\EjecucionSistema.pdb
